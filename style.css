@@ -1,0 +1,19 @@
+body{
+  background-color:#6E6E6E
+}
+
+p{
+  color:#FF0000
+}
+
+.destacado{
+  font-family:"Arial";
+  font-style:italic;
+  font-size:30px;
+  color:#FF00BF
+}
+.diferente{
+  font-family:"Impact";
+  font-size:25px;
+  color:#01DF3A
+}
